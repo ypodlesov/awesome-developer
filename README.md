@@ -23,7 +23,7 @@
 
 ### Articles
 
-- []
+- [HTAP Survey](databases/articles/HTAP_Survey.pdf)
 
 #### Storage
 - [LSM tree](databases/articles/1996_LSM_tree.pdf)
@@ -34,8 +34,8 @@
 - [More modern btree techniques 2024.](databases/articles/btrees/2024_more_modern_btree_techniques.pdf)
 
 #### SQL optimization
-- [Query optimization overview](databases/articles/query_optimization/query_optimization_overview.pdf)
-- [How good are query optimizers, Really?](databases/articles/query_optimization/how_good_are_q_opt.pdf)
+- [Query Optimization Overview](databases/articles/query_optimization/query_optimization_overview.pdf)
+- [How Good are Query Optimizers, Really?](databases/articles/query_optimization/how_good_are_q_opt.pdf)
 - [The Volcano Optimizer Generator: Extensibility and Efficient Search](databases/articles/query_optimization/1993_volc_opt.pdf)
 - [Machine Learning-based Cardinality Estimation in DBMS on Pre-Aggregated Data](databases/articles/query_optimization/ml_based_cardinality_estimation_in_dbms_on_pre_aggregated_data.pdf)
 
@@ -43,17 +43,39 @@
 ## Compilers
 
 ### Books
-- [Basics of compiler design](compilers/books/basics_of_compiler_design.pdf)
-- [Crafting interpreters](compilers/books/crafting_interpreters_nystrom.pdf)
+- [Basics of Compiler Design](compilers/books/basics_of_compiler_design.pdf)
+- [Crafting Interpreters](compilers/books/crafting_interpreters_nystrom.pdf)
 
 <!-- --------------------------------------------------- -->
 ## Concurrency
 
-[Reading list](awesome_concurrency.md) by Roman Lipovsky.
+[Awesome Concurrency](awesome_concurrency.md) by Roman Lipovsky.
 
 <!-- --------------------------------------------------- -->
-## PLs
+## Programming concepts and PLs
+
+### Common
+
+- [Structure and Interpretation of Computer Programs](https://www.e-reading.life/bookreader.php/143929/Structure_and_Interpretation_of_Computer_Programs.pdf)
+- [Immutability Changes Everything](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
+- [Eli Bendersky](https://eli.thegreenplace.net/)
 
 ### Rust
 
-- []
+- [Rust book](https://doc.rust-lang.org/book/)
+- [Rust reference](https://doc.rust-lang.org/stable/reference/)
+- [Rust style-guide](https://doc.rust-lang.org/stable/style-guide/index.html)
+- [Rust patterns](https://rust-unofficial.github.io/patterns/)
+- [Rustonomicon](https://doc.rust-lang.org/stable/nomicon/index.html)
+- [Rust compiler](https://doc.rust-lang.org/stable/rustc/)
+- [Rustc development](https://rustc-dev-guide.rust-lang.org/)
+- [Rust embedded](https://doc.rust-lang.org/stable/embedded-book/)
+
+### Functional programming
+
+- [Functional Programming For The Rest of Us](https://defmacro.org/2006/06/19/fp.html)
+- [Why Functional Programming Matters](https://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
+
+### Haskell
+
+- [Chris Done](https://chrisdone.com/)
