@@ -23,7 +23,11 @@
 
 ### Articles
 
+- [Google Spanner](https://research.google/pubs/spanner-googles-globally-distributed-database/)
+- [F1: A Distributed SQL Database That Scales](https://research.google/pubs/f1-a-distributed-sql-database-that-scales/)
+- [TiDB: A Raft-based HTAP Database](https://vldb.org/pvldb/vol13/p3072-huang.pdf)
 - [HTAP Survey](databases/articles/HTAP_Survey.pdf)
+- [veDB-HTAP: a Highly Integrated, Efficient and Adaptive HTAP System](https://www.vldb.org/pvldb/vol18/p4896-chen.pdf)
 
 #### Storage
 - [LSM tree](databases/articles/1996_LSM_tree.pdf)
@@ -38,6 +42,7 @@
 - [How Good are Query Optimizers, Really?](databases/articles/query_optimization/how_good_are_q_opt.pdf)
 - [The Volcano Optimizer Generator: Extensibility and Efficient Search](databases/articles/query_optimization/1993_volc_opt.pdf)
 - [Machine Learning-based Cardinality Estimation in DBMS on Pre-Aggregated Data](databases/articles/query_optimization/ml_based_cardinality_estimation_in_dbms_on_pre_aggregated_data.pdf)
+- [The Cascades Framework for Query Optimization](https://www.csd.uoc.gr/~hy460/pdf/CascadesFrameworkForQueryOptimization.pdf)
 
 <!-- --------------------------------------------------- -->
 ## Compilers
