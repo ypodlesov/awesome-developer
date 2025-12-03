@@ -44,6 +44,17 @@
 - [Machine Learning-based Cardinality Estimation in DBMS on Pre-Aggregated Data](databases/articles/query_optimization/ml_based_cardinality_estimation_in_dbms_on_pre_aggregated_data.pdf)
 - [The Cascades Framework for Query Optimization](https://www.csd.uoc.gr/~hy460/pdf/CascadesFrameworkForQueryOptimization.pdf)
 
+#### ANN
+
+- [The Fast Johnson–Lindenstrauss Transform and Approximate Nearest Neighbors](databases/articles/ann/fjlt_ann.pdf)
+- [DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node](databases/articles/ann/diskANN.pdf)
+- [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](databases/articles/ann/HNSW.pdf)
+- [Multidimensional Binary Search Trees Used for Associative Searching](databases/articles/ann/kd-trees.pdf)
+- [Approximate nearest neighbor algorithm based on navigable small world graphs](databases/articles/ann/NSW.pdf)
+- [Product quantization for nearest neighbor search](databases/articles/ann/pq_ivf.pdf)
+- [Performance of Nearest Neighbor Queries in R-trees](databases/articles/ann/rtrees.pdf)
+- [Tensor-Train Point Cloud Compression and Efficient Approximate Nearest-Neighbor Search](https://arxiv.org/abs/2410.04462)
+
 <!-- --------------------------------------------------- -->
 ## Compilers
 
@@ -79,7 +90,7 @@
 ### Functional programming
 
 - [Functional Programming For The Rest of Us](https://defmacro.org/2006/06/19/fp.html)
-- [Why Functional Programming Matters](https://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
+- [Why Functional Programming Matters](https://worrydream.com/refs/Hughes_1990_-_Why_Functional_Programming_Matters.pdf)
 
 ### Haskell
 
